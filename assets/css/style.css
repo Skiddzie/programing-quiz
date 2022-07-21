@@ -38,11 +38,6 @@ h1 {
     transform: scale(1.05);
 }
 
-.choice-prefix{
-    padding: 2rem 2.5rem;
-    color: white;
-}
-
 .choice-text{
     padding: 2rem;
     width: 100%;

@@ -27,12 +27,7 @@ check = function() {
         'beforeend',
         score,
     );
-    scoreBox.insertAdjacentHTML(
-        'beforeend',
-        " out of 3",
-    );
-    
-    // document.scoreBox.appendChild(newElement)
+
   } 
 
 
