@@ -43,7 +43,6 @@ buttonA1.addEventListener('click', e => {
     element.remove();
 })
 buttonA2.addEventListener('click', e => {
-    score -=1;
     counter +=1;
     
     if (counter === 3) {
@@ -53,7 +52,6 @@ buttonA2.addEventListener('click', e => {
     element.remove();
 })
 buttonA3.addEventListener('click', e => {
-    score -=1;
     counter +=1;
     
     if (counter === 3) {
@@ -63,7 +61,7 @@ buttonA3.addEventListener('click', e => {
     element.remove();
 })
 buttonA4.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     if (counter === 3) {
@@ -76,7 +74,7 @@ buttonA4.addEventListener('click', e => {
 
 //second set of questions
 buttonB1.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     if (counter === 3) {
@@ -86,7 +84,7 @@ buttonB1.addEventListener('click', e => {
     element.remove();
 })
 buttonB2.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     if (counter === 3) {
@@ -106,7 +104,7 @@ buttonB3.addEventListener('click', e => {
     element.remove();
 })
 buttonB4.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     if (counter === 3) {
@@ -119,7 +117,7 @@ buttonB4.addEventListener('click', e => {
 
 //third set of questions
 buttonC1.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     console.log(counter);
@@ -130,7 +128,7 @@ buttonC1.addEventListener('click', e => {
     element.remove();
 })
 buttonC2.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     if (counter === 3) {
@@ -150,7 +148,7 @@ buttonC3.addEventListener('click', e => {
     element.remove();
 })
 buttonC4.addEventListener('click', e => {
-    score -=1;
+    
     counter +=1;
     
     if (counter === 3) {
